@@ -9,6 +9,10 @@ reactnd-contacts-app/coverage
 
 # production
 reactnd-contacts-app/build
+reactnd-contacts-app/package-lock.json
+reactnd-contacts-app/yarn.lock
+reactnd-contacts-server2/package-lock.json
+reactnd-contacts-server2/yarn.lock
 
 # misc
 .DS_Store
